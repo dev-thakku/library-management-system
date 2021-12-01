@@ -9,3 +9,9 @@ nb-configuration.xml
 
 # Class Files #
 *.class
+
+# IntelliJ specific 
+*.iml
+*.iws
+*.ipr
+.idea/
